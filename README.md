@@ -1,15 +1,23 @@
->> Tela: Mostrar pergunta a ser feita (lista);
-         Opção de Próxima pergunta;
-         Opção de Perguntar.
+**Tela:** 
 
-	 Mostrar personagens para adivinhação como botões ou           lista selecionável?
+- Mostrar pergunta a ser feita (lista);
+        	
+- Opção de Próxima pergunta;
+         
+- Opção de Perguntar.
 
-         Mostrar perguntas do robo.
+- Mostrar personagens para adivinhação como botões ou lista selecionável?
 
-	 Adicionar as imagens de cada personagem	
+- Mostrar perguntas do robo.
 
- 	 * Integrar código com a interface.
+- Adicionar as imagens de cada personagem	
 
-> Back: Criar lista com cada pergunta
-        Início das perguntas do robo
-	Escolha de personagem aleatória pelo robo
+- (*) Integrar código com a interface.
+
+**Código:** 
+
+- Criar lista com cada pergunta
+
+- Início das perguntas do robo
+
+- Escolha de personagem aleatória pelo robo
